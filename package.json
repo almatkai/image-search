@@ -3,8 +3,9 @@
   "name": "image-search",
   "title": "Image Web Search",
   "description": "Searches image using Google Image API",
-  "icon": "extension-icon.png",
+  "icon": "assets/extension-icon.png",
   "author": "almatkai",
+  "categories": ["Developer Tools"],
   "license": "MIT",
   "commands": [
     {
